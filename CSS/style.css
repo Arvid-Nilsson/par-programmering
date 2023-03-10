@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    height: 5vw;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 5vw;
+    width: 5vw;
+}
+
+.menu{
+    left: 0pxx;
+}
