@@ -36,5 +36,7 @@ h1{
 }
 
 .menu{
-    left: 0pxx;
+    position: absolute;
+    right: 1VW;
+    font-size: 2vw;
 }
